@@ -242,7 +242,7 @@
 
 //#define SW_HTTP_CLIENT_ENABLE
 
-#define SW_HTTP_SERVER_SOFTWARE          "moonify"
+#define SW_HTTP_SERVER_SOFTWARE          ""
 #define SW_HTTP_BAD_REQUEST              "<h1>400 Bad Request</h1>\r\n"
 #define SW_HTTP_PARAM_MAX_NUM            128
 #define SW_HTTP_COOKIE_KEYLEN            128
